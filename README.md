@@ -25,6 +25,12 @@ Behind the front desk is a set of cabinents that you could not see originally fr
 Moving into the lobby area there is a seating area made up of 3 couches and 3 tables. There is also a fan, my animated object, above.
 You can see the fan spin in this video: https://www.youtube.com/watch?v=SjlfmUcGePc
 
+To create the animation for the fan. I rotated it on a continuos loop. For this fan model, rotating it 360 degrees even at the slowest speed created a wierd jumpin affect. Therefore I decided to rotate the fan a lot more on a single cycle. Partnering the slow rotation with larger rotational degree gave me the look I was look for.
+
+<img src="/Screenshots/Fan Code.PNG">
+
+ Also note in the actual esports place. There is not a fan. This fan was added to get experience with animating objects.
+
 <img src="/Screenshots/GameRoomViewNormal.png">
 
 Moving into the main room we see the set up of 8 gaming consols on desks. Each set up consists of 5 objects: The PC, Monitor, Chair, Desk, and Keyboard.
@@ -46,6 +52,12 @@ Next we have Light Controls
 These controls control the color and brightness or darkness of the lights as well.
 This next Video shows the controls being used: https://www.youtube.com/watch?v=j_pM5NvbjQo
 
+For the light controls I used a target call to activate and change the lights. We can see this below:
+
+<img src="/Screenshots/Lights Controls Code.PNG">
+
+Each button is similar to the red button shown in the code. Each button calls on each light it affects and either changes the color or the brightness of the light.
+
 
 We also have a similar controls with Covid mode as well:
 
@@ -60,6 +72,9 @@ Covid mode can be turned on and off as many times as you want.
 
 We can see Covid mode in detail in this video: https://www.youtube.com/watch?v=s_2zNySqZRM
 
+The code used for covid mode mainly affect visability by calling target id's and changes the visibility of the object.
+
+<img src="/Screenshots/Covid Code.PNG">
 
 We also have sound. Now at the actual esports place there is music playing 24/7. However to simulate a sound when clicking a object. I designed the music to be clicked before the music starts. However i did decide to make it play 24/7 once clicked so be careful because the music gets annoying.
 The music controls are similar to everything else:
@@ -67,6 +82,10 @@ The music controls are similar to everything else:
 <img src="/Screenshots/Music.png">
 
 We can see this also in deatail here: https://www.youtube.com/watch?v=_QIUvZmwCKA
+
+For the code for music I did not have to use the target call on a ID. Since I decided to make the music play forever after the button was clicked, I decided to embed the music in the button itself on a continuos loop. This is similar to what I did for the ceiling fan.
+
+<img src="/Screenshots/SoundCode.PNG">
 
 Please Note when I did my voice over: I unsynced the audio somehow. However when you test the demo it works correctly.
 
