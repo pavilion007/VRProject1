@@ -7,10 +7,12 @@ Main Presentation Video: (Recommended) https://www.youtube.com/watch?v=XR7bJA6SY
 
 
 Background Info on Project:
+-----------------------------------------------------------------------------------------------------------------------------------
 
 I chose to model the esports location in Lubbock because I work there as a Game Manager. I have gotten to see first hand how covid has affected my work there as well as the interaction with customers. I tried to accurately depict the Esports center to a degree. However I had to remove a lot to prevent lag as well as add a few buttons and words on the walls to help the user figure out interactions within my virtual environment.
 
 Design and Look:
+-----------------------------------------------------------------------------------------------------------------------------------
 
 <img src="/Screenshots/FrontDeskNormal.png">
 
@@ -45,7 +47,8 @@ Each chair can be interacted with as many times as you want.
 In this link we can see the interaction: https://www.youtube.com/watch?v=pagkRONZXIE
 
 
-Next we have Light Controls
+Light Controls
+-----------------------------------------------------------------------------------------------------------------------------------
 
 <img src="/Screenshots/ColorControls.png">
 
@@ -58,6 +61,8 @@ For the light controls I used a target call to activate and change the lights. W
 
 Each button is similar to the red button shown in the code. Each button calls on each light it affects and either changes the color or the brightness of the light.
 
+Covid Mode
+-----------------------------------------------------------------------------------------------------------------------------------
 
 We also have a similar controls with Covid mode as well:
 
@@ -76,6 +81,8 @@ The code used for covid mode mainly affect visability by calling target id's and
 
 <img src="/Screenshots/Covid Code.PNG">
 
+Sound
+-----------------------------------------------------------------------------------------------------------------------------------
 We also have sound. Now at the actual esports place there is music playing 24/7. However to simulate a sound when clicking a object. I designed the music to be clicked before the music starts. However i did decide to make it play 24/7 once clicked so be careful because the music gets annoying.
 The music controls are similar to everything else:
 
