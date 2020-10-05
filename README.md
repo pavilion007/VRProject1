@@ -92,12 +92,16 @@ Please Note when I did my voice over: I unsynced the audio somehow. However when
 
 
 Software used:
+-----------------------------------------------------------------------------------------------------------------------------------
 For this porject I used mixcraft for sound. Photoshop for resizing and editing textures and images. Blender for model creation. Premier Pro for video editing.
 
 Models used and references:
+-----------------------------------------------------------------------------------------------------------------------------------
+
 (this is also located in a seperate file)
 
 Models created by me:
+-----------------------------------------------------------------------------------------------------------------------------------
 
 CasualTable (I Designed) GlitchSourceCode: https://cdn.glitch.com/3f2e7e3c-72b4-4eba-8efe-1cede62b0c05%2Frountop2.glb?v=1601837844383
 
@@ -148,7 +152,7 @@ The Image Location: https://cdn.glitch.com/3f2e7e3c-72b4-4eba-8efe-1cede62b0c05%
 
 
 Models Downloaded:
-
+-----------------------------------------------------------------------------------------------------------------------------------
 
 
 Gaming Chair GlitchSourceCode: https://cdn.glitch.com/3f2e7e3c-72b4-4eba-8efe-1cede62b0c05%2FGamingChair.glb?v=1601422558937
@@ -224,6 +228,8 @@ Reference: This model was designed and creadited to mozillareality and can be fo
 
 
 Textures:
+-----------------------------------------------------------------------------------------------------------------------------------
+
 
 Netflix logo: GlitchSourceCode: https://cdn.glitch.com/3f2e7e3c-72b4-4eba-8efe-1cede62b0c05%2FNetflix.jpg?v=1601854734518
 
@@ -269,6 +275,7 @@ Reference this image was taken by me and edited in photoshop.
 
 
 Sound:
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Music: GlitchSourceCode: https://cdn.glitch.com/3f2e7e3c-72b4-4eba-8efe-1cede62b0c05%2Fdub.mp3?v=1601837844194
 
